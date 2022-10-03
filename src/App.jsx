@@ -4,7 +4,10 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Sum-Pics!</h1>
+      <header>
+        <h1>Sum-Pics!</h1>
+        <i class="ri-shopping-cart-line ri-2x"></i>
+      </header>
     </div>
   )
 }
